@@ -33,7 +33,6 @@ The project focuses on creating a basic robotic dog by applying fundamental 3D m
 - Project screenshots
 
 ## Preview
-> Add screenshots of the final model here.
 
 ## What I Learned
 Through this project, I learned how to:
