@@ -32,16 +32,8 @@ The project focuses on creating a basic robotic dog by applying fundamental 3D m
 - `PawBot.glb`
 - Project screenshots
 
-## Preview
-
-## What I Learned
-Through this project, I learned how to:
-
-- Create 2D sketches.
-- Use the Extrude feature to build 3D parts.
-- Apply dimensions to sketches.
-- Build a complete model from simple shapes.
-- Organize and document a CAD project using GitHub.
+## Interactive 3D Model
+Open **`PawBot.stl`** to explore the robot dog directly on GitHub.
 
 ## Preview
 
@@ -51,4 +43,11 @@ Through this project, I learned how to:
 ### Front View
 ![Front View](Screenshot2.png)
 
-![Isometric View](IsometricView.png)
+## What I Learned
+Through this project, I learned how to:
+
+- Create 2D sketches.
+- Use the Extrude feature to build 3D parts.
+- Apply dimensions to sketches.
+- Build a complete model from simple shapes.
+- Organize and document a CAD project using GitHub.
